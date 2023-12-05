@@ -23,9 +23,4 @@ A React web application to display GitHub user's public information in a nicely 
 - HTML
 - CSS
 
-## Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/react-github-user-info-app.git
