@@ -4,7 +4,7 @@ A React web application to display GitHub user's public information in a nicely 
 
 ## Demo
 
-[Live Demo](#) <!-- Add a link to your live demo -->
+[Live Demo](https://github-finder23.netlify.app) <!-- Add a link to your live demo -->
 
 ## Features
 
